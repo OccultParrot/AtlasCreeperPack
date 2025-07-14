@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Pack to make creepers not break blocks",
+		"name": "Atlas Creeper Pack",
+		"uuid": "ad404f07-480b-4a5b-a785-e4a0392677c1",
+		"version": [ 0, 0, 1],
+		"min_engine_version": [1, 21, 70]
+	},
+	"modules": [
+		{
+			"description": "Pack to make creepers not break blocks",
+			"type": "data",
+			"uuid": "974e5062-8db4-4dc5-bc34-c2120e1e8f96",
+			"version": [0, 0, 1]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "e602628c-043b-462e-8265-618bd9da2bfd",
+			"version": [0, 0, 1]
+		}
+	]
+}
